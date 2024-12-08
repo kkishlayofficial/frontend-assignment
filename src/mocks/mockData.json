@@ -1,8 +1,8 @@
 [
-  { "s.no": 1, "percentage.funded": "50%", "amt.pledged": "$500" },
-  { "s.no": 2, "percentage.funded": "60%", "amt.pledged": "$600" },
-  { "s.no": 3, "percentage.funded": "70%", "amt.pledged": "$700" },
-  { "s.no": 4, "percentage.funded": "80%", "amt.pledged": "$800" },
-  { "s.no": 5, "percentage.funded": "90%", "amt.pledged": "$900" },
-  { "s.no": 6, "percentage.funded": "100%", "amt.pledged": "$1000" }
+  { "s.no": 0, "percentage.funded": "50%", "amt.pledged": "$500" },
+  { "s.no": 1, "percentage.funded": "60%", "amt.pledged": "$600" },
+  { "s.no": 2, "percentage.funded": "70%", "amt.pledged": "$700" },
+  { "s.no": 3, "percentage.funded": "80%", "amt.pledged": "$800" },
+  { "s.no": 4, "percentage.funded": "90%", "amt.pledged": "$900" },
+  { "s.no": 5, "percentage.funded": "100%", "amt.pledged": "$1000" }
 ]
