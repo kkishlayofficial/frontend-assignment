@@ -29,7 +29,7 @@ const Table = ({ kickStarterProjectsData }) => {
             ?.map((item) => {
               return (
                 <tr key={item?.["s.no"]}>
-                  <td>{item?.["s.no"]}</td>
+                  <td>{item?.["s.no"] + 1}</td>
                   <td>{item?.["percentage.funded"]}</td>
                   <td>{item?.["amt.pledged"]}</td>
                 </tr>
