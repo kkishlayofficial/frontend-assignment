@@ -7,11 +7,19 @@
 
 table{
   border: 1px solid white;
+  min-height: 268px;
+  border-collapse: collapse; 
+  table-layout: fixed;
 }
 
 td, th {
   border: 1px solid #dddddd;
   padding: 8px;
+  vertical-align: top;
+}
+
+thead th{
+  background-color: rgb(107, 103, 103);
 }
 
 .btn-group{
