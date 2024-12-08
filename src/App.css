@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+table{
+  border: 1px solid white;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+.btn-group{
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+button{
+  width: 48%;
+}
+
+.error{
+  color: red;
+}
